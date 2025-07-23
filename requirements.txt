@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+geopy
+gdown
+joblib
+lightgbm
+numpy==1.23.5
+matplotlib==3.7.2
